@@ -1,0 +1,29 @@
+
+
+.table{
+    border: 1px solid;  
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px; 
+   
+  
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+.abc{
+    width: 33.3%;  
+}
+
+p{
+    font-size: 13px;
+}
+span{
+    font-size: 14px;
+}
+.main-div{   
+    display: flex;
+    justify-content: space-around;
+}
